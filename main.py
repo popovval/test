@@ -1,2 +1,2 @@
-def zopa():
+def main():
     print(1)
